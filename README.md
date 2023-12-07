@@ -1,4 +1,4 @@
-# Hacker New clone
+# Hacker New clone
 This is a Hacker News clone written in Javascript with Navigo.
 
 It shows you all the same tabs as Hacker News:
@@ -9,7 +9,7 @@ It shows you all the same tabs as Hacker News:
 
 And it also implements favouriting functionality where users can view their favourited stories.
 
-## How to run
+## How to run
 To have a look, you can use any HTTP server. For example, install `http-server`:
 
 ```bash
